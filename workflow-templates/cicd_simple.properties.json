@@ -1,0 +1,12 @@
+{
+  "name": "Lars Appel´s CI/CD Workflow",
+  "description": "CI/CD Workflow for ASP.NET Core applications",
+  "iconName": "rocket",
+  "categories": [
+      ".NET Core"
+  ],
+  "filePatterns": [
+      ".csproj$",
+      "^Dockerfile"
+  ]
+}
