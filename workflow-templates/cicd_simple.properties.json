@@ -6,7 +6,6 @@
       ".NET Core"
   ],
   "filePatterns": [
-      ".csproj$",
       "^Dockerfile"
   ]
 }
